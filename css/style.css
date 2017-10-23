@@ -1,0 +1,44 @@
+ div {
+ 	width: 200px;
+	height: 200px;
+ }
+
+ .block1{
+	background-image: url(../img/image.png);
+	background-position: 0% 0%;
+}
+
+.block2{
+	background-image: url(../img/image.png);
+	background-position: 33.2% 0%;
+}
+
+.block3{
+	background-image: url(../img/image.png);
+	background-position: 66.6% 0%;
+}
+
+.block4{
+	background-image: url(../img/image.png);
+	background-position: 100% 0%;
+}
+
+.block5{
+	background-image: url(../img/image.png);
+	background-position: 0% 100%;
+}
+
+.block6{
+	background-image: url(../img/image.png);
+	background-position: 33.2% 100%;
+}
+
+.block7{
+	background-image: url(../img/image.png);
+	background-position: 66.6% 100%;
+}
+
+.block8{
+	background-image: url(../img/image.png);
+	background-position: 100% 100%;
+}
